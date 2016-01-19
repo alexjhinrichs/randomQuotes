@@ -1,0 +1,51 @@
+.container {
+  text-align: center;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-family: Tangerine;
+  text-shadow: 3px 4px 3px gray;
+  font-size: 60px;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+
+.btn {
+  background-color: #B3D3B3;
+  height: 45px;
+  width: 115px;
+  border-radius: 15px;
+  font-family: Tangerine;
+  font-size: 25px;
+  font-weight: bold;
+  box-shadow: -4px 4px 8px gray;
+}
+
+p {
+  font-size: 20px
+}
+
+.quoteBox {
+  font-size: 22px;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: -8px 8px 15px gray;
+  margin-bottom: 50px;
+}
+
+.author {
+  font-style: italic;
+}
+
+i {
+  margin-right: 10px;
+  color: #28A9E0;
+}
+
+.tweetBtn {
+  line-height: 25px;
+  border-radius: 5px;
+}
