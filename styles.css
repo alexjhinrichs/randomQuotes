@@ -1,3 +1,8 @@
+body {
+  background-color: yellow;
+  color: black;
+}
+
 .container {
   text-align: center;
   max-width: 500px;
@@ -13,7 +18,7 @@ h1 {
 }
 
 .btn {
-  background-color: #B3D3B3;
+  background-color: red;
   height: 45px;
   width: 115px;
   border-radius: 15px;
@@ -21,6 +26,10 @@ h1 {
   font-size: 25px;
   font-weight: bold;
   box-shadow: -4px 4px 8px gray;
+  border: 2px solid black;
+}
+.btn:hover {
+  background-color: #cc0000;
 }
 
 p {
@@ -34,6 +43,8 @@ p {
   border-radius: 20px;
   box-shadow: -8px 8px 15px gray;
   margin-bottom: 50px;
+  background-color: green;
+  border: 1px solid black;
 }
 
 .author {
